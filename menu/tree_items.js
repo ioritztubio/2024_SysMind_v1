@@ -126,7 +126,7 @@ var TREE_ITEMS = [
 		],
 
 		[' Sistemaren Espezifikazioa',null,
-			[' Glosarioa (Glossary)','../Proiektua/SistemarenEspezifikazioa/glossary.pdf'],
+			[' Glosarioa (Glossary)','../Proiektua/SistemarenEspezifikazioa/glossarySysMind.pdf'],
 			[' Bisioa (Vision)','../Proiektua/SistemarenEspezifikazioa/VisionSysMind.pdf'],
 			[' Betebeharren Espezifikazioa (systemwide_req_spec)','../Proiektua/SistemarenEspezifikazioa/systemwide_req_spec.pdf'],
 
