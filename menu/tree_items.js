@@ -1,7 +1,7 @@
 /* --- menu items --- */
 var TREE_ITEMS = [
 
-	[' SysMind', '../main/home_page.htm',
+	[' SysMinds', '../main/home_page.htm',
 		[' Portada', '../main/home_page.htm'],
 		[' Laburpen Posterra', '../Proiektua/Memoria/Posterra.pdf'],
 		[' Aurkezpena', '../Proiektua/Aurkezpena.pptx'],
@@ -36,7 +36,7 @@ var TREE_ITEMS = [
 					['Frankizien hornitzailei buruzko informazioa','https://www.franchise.org/suppliers'],
 				],
 				['Bezeroak proposatutako ebaluazio-txantiloiak',null,
-					['Request for Proposals (RFP) txantiloia','../Proiektua/MemoriarenEranskinak/rfp-template-government-model.pdf'],
+					['Request for Proposals (RFP) txantiloia','../Proiektua/MemoriarenEranskinak/rfp-mundo-franquicia-ofiziala.pdf'],
 					['User acceptace test (UAT) txantiloia','../Proiektua/MemoriarenEranskinak/User-Accetptance-Test-Plan-Free-Word-Template.pdf'],
 					['RFP erantzunen hasierako ebaluazioaren txantiloia','../Proiektua/MemoriarenEranskinak/Software projects proposals evaluation template.pdf'],
 				],
@@ -132,13 +132,13 @@ var TREE_ITEMS = [
 
 			[' Erabilpen kasuak (jarduera diagramekin)', null,
 				[' Centralized Platform','../Proiektua/SistemarenEspezifikazioa/usecase_specification_Centralized Platform for Effective Communication, Training, and Support.pdf'],
-				[' Centralized Platform (UML)','../Proiektua/SistemarenEspezifikazioa/glossary.pdf'],
+				[' Centralized Platform (UML)','../Proiektua/SistemarenEspezifikazioa/glossarySysMind.pdf'],
 				[' Financial Management','../Proiektua/SistemarenEspezifikazioa/usecase_specification_Financial Management.pdf'],
-				[' Financial Management (UML)','../Proiektua/SistemarenEspezifikazioa/glossary.pdf'],
+				[' Financial Management (UML)','../Proiektua/SistemarenEspezifikazioa/glossarySysMind.pdf'],
 				[' Manage menu','../Proiektua/SistemarenEspezifikazioa/usecase_specification_Manage menu.pdf'],
 				[' Manage menu (UML)', '../Proiektua/MemoriarenEranskinak/BasicFlowUseCaseManageMenu.png'],
 				[' Process Order','../Proiektua/SistemarenEspezifikazioa/usecase_specification_Process Order.pdf'],
-				[' Process Order (UML)','../Proiektua/SistemarenEspezifikazioa/glossary.pdf'],
+				[' Process Order (UML)','../Proiektua/SistemarenEspezifikazioa/glossarySysMind.pdf'],
 				[' Standardized Processes and Practices',null,
 					[' Use-case specification (OpenUP)',null,],
 					[' Activity diagram (UML)',null,],
