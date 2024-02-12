@@ -158,10 +158,15 @@ var TREE_ITEMS = [
 		[' Berariazko garrantzia duten azterlanak', null,
 			[' Orokortasunak', null,],
 			[' Edukia', null,]
+		],
+		[' Ikuskaritza Lanak (gasolindegiak)', null,
+			[' Bezeroari', null,
+				[' Ikusk Bez GasStation',' ../Proiektua/IkuskaritzaLana/BPGasStationBezeroa/Ikuskaritza BPGasStation.pdf'],
+			],
 		]
 	],
 
-	['FranchiseConnect: Barne Kudeaketa', null,
+	['SysMinds: Barne Kudeaketa', null,
 		[' Proiektuaren Barne Kudeaketa', null,
 			[' Iterazio Planak' , null],
 			[' Proiektu Plana', null],
